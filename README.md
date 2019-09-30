@@ -92,6 +92,13 @@ Comp-fi hardness score: 5.
 Overall rating ****__
 
   Doctorow is, of course, a well known storytelling pro. This is a story about trying to establish a TCP/IP connection to Elfland. I liked it.
+  
+* __A Fire Upon the Deep (Vernor Vinge).
+Long.
+Comp-fi hardness score: 4.
+Overall rating ****__
+
+  This story has two main settings. One is a planet where dog-like creatures communicate telepathically. The other is in space where an ancient AI has escaped it's confines. Large in scale, but also very character driven. Computers play a large role throughout the plot. Great world-building.
 
 ## Works recommended but lacking confirmation and/or review
 
