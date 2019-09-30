@@ -92,6 +92,13 @@ Comp-fi hardness score: 5.
 Overall rating ****__
 
   Doctorow is, of course, a well known storytelling pro. This is a story about trying to establish a TCP/IP connection to Elfland. I liked it.
+  
+* __Synners (Pat Cadigan).
+Medium lengths
+Comp-fi hardness score: 3.
+Overall rating ****__
+
+  A cyberpunk tale involving virtual reality, a bit of AI, a step towards the singularity, and a young woman named Sam. 
 
 ## Works recommended but lacking confirmation and/or review
 
