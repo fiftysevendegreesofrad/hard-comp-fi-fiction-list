@@ -136,6 +136,8 @@ Daemon by Daniel Suarez.
 
 The Adolescence of P1 by Thomas Ryan.
 
+Lifecycle of software objects by Ted Chiang
+
 Permutation City by Greg Egan
 
 [The Digital Fortress, by Dan Brown](https://www.goodreads.com/book/show/11125.Digital_Fortress)
