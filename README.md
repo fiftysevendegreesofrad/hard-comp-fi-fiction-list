@@ -101,3 +101,4 @@ Daemon by Daniel Suarez.
 
 The Adolescence of P1 by Thomas Ryan.
 
+Permutation City by Greg Egan
