@@ -51,45 +51,45 @@ Overall rating *****__
 
   Famous cyberpunk which doesn’t take itself or the author’s homeland too seriously, yet also strangely prescient. Credited with coining modern usage of the word ‘avatar’. Computing aspects include comparative programming languages and antivirus.
 
-* __Asimov’s Robot stories.__
+* __Asimov’s Robot stories.
 Various, short.
 Comp-fi hardness score: 4.
-Overall rating ***
+Overall rating ***__
 
   At least one of Asimov’s classic robot short stories hinges on odd behaviour caused by oscillating potentials in the ‘positronic brain’ - perhaps rooted more in electronics than computing. Others hang on logical conundra. I forget which. Possibly the origin of all hard comp-fi.
 
-* __Off to be the Wizard (Scott Meyer).__
+* __Off to be the Wizard (Scott Meyer).
 Medium length.
 Comp-fi hardness score: 4.
-Overall rating ***
+Overall rating ***__
 
   This, and Wizard’s Bane, both handle the parallels between magic and programming by giving us a programmer as a viewpoint character in a magical world. Computing aspects include naming, code reuse, clever hacks, and a fairly deep exploration of what the author calls shell programming, but I would term development toolchains i.e. using a computer to program itself. Other aspects are well handled – how would you use a display of magic with no direct practical application, to gain power in a medieval setting? Also broaches the topic of (spoiler) <span style="color:white">gender bias in tech</span>, though (spoiler++) <span style="color:white">you wouldn’t think it until the end</span>. I would classify as young adult reading (no slur on my part – I like the concise nature of YA).
 
-* __Wizard’s Bane (Rick Cook).__
+* __Wizard’s Bane (Rick Cook).
 Medium length.
 Comp-fi hardness score: 4.
-Overall rating ***
+Overall rating ***__
 
   Has a lot in common with Off to be the Wizard. Perhaps heavier than the others on nerd wish fulfilment and in-group referencing, though [Mark](https://confusethelucid.blogspot.com/) who read this before learning to program said it didn’t upset the flow. The plot is worthy of mention as it hinges entirely on commonalities between magic and software engineering. Young adult.
 
-* __Lauren Ipsum (Carlos Bueno).__
+* __Lauren Ipsum (Carlos Bueno).
 Medium length.
 Comp-fi hardness score: 5.
-Overall rating ***
+Overall rating ***__
 
   No magic here for a change, instead an Alice-in-wonderland style allegory. I read this a while ago and can’t clearly remember but I think it touches on naming, recursion, turtle graphics, heuristics, branching and possibly P vs NP. Young adult, or even younger.
 
-* __[Manifest Logic](https://omnisplore.wordpress.com/2019/06/21/manifest-logic/).__
+* __[Manifest Logic](https://omnisplore.wordpress.com/2019/06/21/manifest-logic/).
 Short, free to download.
 Comp-fi hardness score: 5.
-Not my place to rate this. ***?
+Not my place to rate this. ***?__
 
   Thinking myself the first to the magic-as-programming game I put together something that included naming, boundary conditions, recursion, protected memory and object oriented design. Afterwards I found Ra, and was pleasantly surprised to see how much overlap there is between my thinking and Hughes’s… though he wrote a better story than I could ever hope to! Young adult.
 
-* __[Shannon’s Law](https://www.tor.com/2011/05/05/shannons-law/) (Cory Doctorow).__
+* __[Shannon’s Law](https://www.tor.com/2011/05/05/shannons-law/) (Cory Doctorow).
 Short, free to download.
 Comp-fi hardness score: 5.
-Overall rating ****
+Overall rating ****__
 
   Doctorow is, of course, a well known storytelling pro. This is a story about trying to establish a TCP/IP connection to Elfland. I liked it.
 
