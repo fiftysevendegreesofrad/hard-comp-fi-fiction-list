@@ -1,6 +1,6 @@
 This resource lists a bunch of stories which in some way, explore the beautiful ideas behind computer science, software engineering and even plain old programming. 
 
-## Genre naming
+## Genre definition
 
 I'm tentatively calling this "hard comp-fi" to echo the well-established genre of hard sci-fi, which is defined by accurate, watertight science taking centre stage in the narrative. In hard comp-fi, by way of contrast, the computer science/software engineering/programming aspects are accurate, watertight and take centre stage in the narrative.
 
