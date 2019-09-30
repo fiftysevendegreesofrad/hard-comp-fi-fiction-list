@@ -20,7 +20,7 @@ A lot of the book suggestions came from [this HN thread](https://news.ycombinato
 
 ## Updating the list
 
-Send me a pull request! If lots of works get added, we'll have to rethink the rating system.
+Send me a pull request! Write a review, give a rating, insert it in order of hard comp-fi score, attribute your review to yourself. If a lot of works get added, we'll have to rethink the rating system (and I'll add attribution for the original set of reviews).
 
 ## The List
 
