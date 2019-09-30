@@ -77,7 +77,7 @@ Long.
 Comp-fi hardness score: 4.5
 Overall rating *****__
 
-  A hard sci-fi novel with well many computer science references (programmer archeologists, open source space traders), as well as some big ideas central to the plot (locators, obscured code). Focuses on a WW1 era alien race being observed by multiple factions of space faring humans (which don't get along).
+  A hard sci-fi novel, in contrast with the soft sci-fi novel of the same series (readable in either order), _A Fire Upon the Deep_. Contains many computer science and software engineering references as well as some big ideas: from programmer archeologists to open source space traders, from stenography to obscured code. Focuses on an alien race going through their first world war being observed by multiple factions of space faring humans (which don't get along with each other).
 
 * __Lauren Ipsum (Carlos Bueno).
 Medium length.
