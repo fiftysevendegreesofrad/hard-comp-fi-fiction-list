@@ -122,11 +122,18 @@ Overall rating ***__
   Rainbows End is Vinge's near future prediction book, it predicts a "middle road" of the automation future between dystopia and utopia, feeling more realistic for the trying. At first a wonderous look at what the future might bring us (grounded in reality, focusing on ideas like augmented reality, computational currencies, and influencers; published nearly 15 years ago!) that becomes a terrifying look at what automation will mean for issues like terrorism (including a hard look at what computer privacy focused movements will have to contend with in the future). While the plot leaves somethings to be desired, the book is startingly evocative of a the near computational future.
 
 * __[Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon) (Neal Stephenson).
-Short, free to download.
+Long, free to download.
 Comp-fi hardness score: 5.
 Overall rating *****__
 
-  Stephenson shows off his habit of craming as much research as possible into anything he writes. This book deals with a lot of cryptography, gold based digital currencies, data havens, and conception of the first computers around World War 2. The book also includes a novel cipher known as Pontifex with a working (depending on the edition) Perl script for using it. It very long but justifies it's length by including two parallel stories. 
+  Stephenson shows off his habit of craming as much research as possible into anything he writes. This book deals with a lot of cryptography, gold based digital currencies, data havens, and conception of the first computers around World War 2. The book also includes a novel cipher known as Pontifex with a working (depending on the edition) Perl script for using it. It's very long but justifies it's length by including two parallel stories. 
+
+* __[Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html) (Greg Egan).
+Medium Length.
+Comp-fi hardness score: 5.
+Overall rating ***__
+
+  Written by a software developer, Permutation City leans hard into the philosophy and realities of what artificial life in a computer simulation might be like. A little trippy, sometimes difficult to follow, but extremely thought-provoking nonetheless.
 
 ## Works recommended but lacking confirmation and/or review
 
@@ -137,7 +144,5 @@ Daemon by Daniel Suarez.
 The Adolescence of P1 by Thomas Ryan.
 
 Lifecycle of software objects by Ted Chiang
-
-Permutation City by Greg Egan
 
 [The Digital Fortress, by Dan Brown](https://www.goodreads.com/book/show/11125.Digital_Fortress)
