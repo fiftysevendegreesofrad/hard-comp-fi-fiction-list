@@ -101,3 +101,4 @@ Daemon by Daniel Suarez.
 
 The Adolescence of P1 by Thomas Ryan.
 
+Lifecycle of software objects by Ted Chiang
