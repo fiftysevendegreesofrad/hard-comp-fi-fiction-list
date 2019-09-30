@@ -30,24 +30,24 @@ Ratings are, of course, subjective and best taken with a pinch of MSG. In order 
 
   Not a book, but I’m putting it here to note that despite its sci-fi holes (batteries, anyone?) its comp-fi credentials are stronger, covering simulation, antivirus and agents. Also, the famous red pill is a [magical debug value](https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values).
 
-* __[Unsong](http://unsongbook.com/) (Scott Alexander). __
+* __[Unsong](http://unsongbook.com/) (Scott Alexander). 
 Long, free to download.
 Comp-fi hardness score: 3.
-Overall rating *****
+Overall rating *****__
 
   I loved this, though skipped the Talmud analysis bits. I’m not 100% sure it qualifies as hard comp-fi as the focus is more social and philosophical (what would you expect from the author of [slatestarcodex](https://slatestarcodex.com/)?). Still, it’s definitely got a lot of computing in there including automated search for names of God, in a Pratchett-esque world where physics is broken and hell is real.
 
-* __[Ra](https://qntm.org/ra) (Sam Hughes).__
+* __[Ra](https://qntm.org/ra) (Sam Hughes).
 Long, free to download.
 Comp-fi hardness score: 3.5.
-Overall rating *****
+Overall rating *****__
 
   I loved this as well. Magical realism setting, with better character development than most of the ‘harder’ comp-fi, and a complex narrative. Computing aspects include naming, a fork bomb, and levels of abstraction i.e. the difference between machine code and interpreted language.
 
-* __Snow Crash (Neal Stephenson).__
+* __Snow Crash (Neal Stephenson).
 Long.
 Comp-fi hardness score: 3.5.
-Overall rating *****
+Overall rating *****__
 
   Famous cyberpunk which doesn’t take itself or the author’s homeland too seriously, yet also strangely prescient. Credited with coining modern usage of the word ‘avatar’. Computing aspects include comparative programming languages and antivirus.
 
