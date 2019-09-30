@@ -37,6 +37,13 @@ Overall rating *****__
 
   I loved this, though skipped the Talmud analysis bits. I’m not 100% sure it qualifies as hard comp-fi as the focus is more social and philosophical (what would you expect from the author of [slatestarcodex](https://slatestarcodex.com/)?). Still, it’s definitely got a lot of computing in there including automated search for names of God, in a Pratchett-esque world where physics is broken and hell is real.
 
+* __Synners (Pat Cadigan).
+Medium lengths
+Comp-fi hardness score: 3.
+Overall rating ****__
+
+  A cyberpunk tale involving virtual reality, a bit of AI, a step towards the singularity, and a young woman named Sam. 
+
 * __[Ra](https://qntm.org/ra) (Sam Hughes).
 Long, free to download.
 Comp-fi hardness score: 3.5.
