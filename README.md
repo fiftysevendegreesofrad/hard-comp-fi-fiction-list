@@ -93,6 +93,13 @@ Overall rating ****__
 
   Doctorow is, of course, a well known storytelling pro. This is a story about trying to establish a TCP/IP connection to Elfland. I liked it.
 
+* __[Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon) (Neal Stephenson).
+Short, free to download.
+Comp-fi hardness score: 5.
+Overall rating *****__
+
+  Stephenson shows off his habit of craming as much research as possible into anything he writes. This book deals with a lot of cryptography, gold based digital currencies, data havens, and conception of the first computers around World War 2. The book also includes a novel cipher known as Pontifex with a working (depending on the edition) Perl script for using it. It very long but justifies it's length by including two parallel stories. 
+
 ## Works recommended but lacking confirmation and/or review
 
 Sherri Tepper’s True Game series 
