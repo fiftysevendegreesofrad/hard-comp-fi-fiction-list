@@ -72,6 +72,13 @@ Overall rating ***__
 
   Has a lot in common with Off to be the Wizard. Perhaps heavier than the others on nerd wish fulfilment and in-group referencing, though [Mark](https://confusethelucid.blogspot.com/) who read this before learning to program said it didn’t upset the flow. The plot is worthy of mention as it hinges entirely on commonalities between magic and software engineering. Young adult.
 
+* __A Deepness in the Sky (Vernor Vinge).
+Long.
+Comp-fi hardness score: 4.5
+Overall rating *****__
+
+  A hard sci-fi novel with well many computer science references (programmer archeologists, open source space traders), as well as some big ideas central to the plot (locators, obscured code). Focuses on a WW1 era alien race being observed by multiple factions of space faring humans (which don't get along).
+
 * __Lauren Ipsum (Carlos Bueno).
 Medium length.
 Comp-fi hardness score: 5.
