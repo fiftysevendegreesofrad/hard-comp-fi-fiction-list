@@ -26,67 +26,67 @@ Send me a pull request! If lots of works get added, we'll have to rethink the ra
 
 Ratings are, of course, subjective and best taken with a pinch of MSG. In order from softer to harder comp-fi:
 
-* __The Matrix (Wachowskis). Comp-fi hardness score: 2.9. Overall rating *****
+* __The Matrix (Wachowskis). Comp-fi hardness score: 2.9. Overall rating *****__
 
   Not a book, but I’m putting it here to note that despite its sci-fi holes (batteries, anyone?) its comp-fi credentials are stronger, covering simulation, antivirus and agents. Also, the famous red pill is a [magical debug value](https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values).
 
-* __[Unsong](http://unsongbook.com/) (Scott Alexander). 
+* __[Unsong](http://unsongbook.com/) (Scott Alexander). __
 Long, free to download.
 Comp-fi hardness score: 3.
 Overall rating *****
 
   I loved this, though skipped the Talmud analysis bits. I’m not 100% sure it qualifies as hard comp-fi as the focus is more social and philosophical (what would you expect from the author of [slatestarcodex](https://slatestarcodex.com/)?). Still, it’s definitely got a lot of computing in there including automated search for names of God, in a Pratchett-esque world where physics is broken and hell is real.
 
-* __[Ra](https://qntm.org/ra) (Sam Hughes).
+* __[Ra](https://qntm.org/ra) (Sam Hughes).__
 Long, free to download.
 Comp-fi hardness score: 3.5.
 Overall rating *****
 
   I loved this as well. Magical realism setting, with better character development than most of the ‘harder’ comp-fi, and a complex narrative. Computing aspects include naming, a fork bomb, and levels of abstraction i.e. the difference between machine code and interpreted language.
 
-* __Snow Crash (Neal Stephenson).
+* __Snow Crash (Neal Stephenson).__
 Long.
 Comp-fi hardness score: 3.5.
 Overall rating *****
 
   Famous cyberpunk which doesn’t take itself or the author’s homeland too seriously, yet also strangely prescient. Credited with coining modern usage of the word ‘avatar’. Computing aspects include comparative programming languages and antivirus.
 
-* __Asimov’s Robot stories.
+* __Asimov’s Robot stories.__
 Various, short.
 Comp-fi hardness score: 4.
 Overall rating ***
 
   At least one of Asimov’s classic robot short stories hinges on odd behaviour caused by oscillating potentials in the ‘positronic brain’ - perhaps rooted more in electronics than computing. Others hang on logical conundra. I forget which. Possibly the origin of all hard comp-fi.
 
-* __Off to be the Wizard (Scott Meyer).
+* __Off to be the Wizard (Scott Meyer).__
 Medium length.
 Comp-fi hardness score: 4.
 Overall rating ***
 
   This, and Wizard’s Bane, both handle the parallels between magic and programming by giving us a programmer as a viewpoint character in a magical world. Computing aspects include naming, code reuse, clever hacks, and a fairly deep exploration of what the author calls shell programming, but I would term development toolchains i.e. using a computer to program itself. Other aspects are well handled – how would you use a display of magic with no direct practical application, to gain power in a medieval setting? Also broaches the topic of (spoiler) <span style="color:white">gender bias in tech</span>, though (spoiler++) <span style="color:white">you wouldn’t think it until the end</span>. I would classify as young adult reading (no slur on my part – I like the concise nature of YA).
 
-* __Wizard’s Bane (Rick Cook).
+* __Wizard’s Bane (Rick Cook).__
 Medium length.
 Comp-fi hardness score: 4.
 Overall rating ***
 
   Has a lot in common with Off to be the Wizard. Perhaps heavier than the others on nerd wish fulfilment and in-group referencing, though [Mark](https://confusethelucid.blogspot.com/) who read this before learning to program said it didn’t upset the flow. The plot is worthy of mention as it hinges entirely on commonalities between magic and software engineering. Young adult.
 
-* __Lauren Ipsum (Carlos Bueno).
+* __Lauren Ipsum (Carlos Bueno).__
 Medium length.
 Comp-fi hardness score: 5.
 Overall rating ***
 
   No magic here for a change, instead an Alice-in-wonderland style allegory. I read this a while ago and can’t clearly remember but I think it touches on naming, recursion, turtle graphics, heuristics, branching and possibly P vs NP. Young adult, or even younger.
 
-* __[Manifest Logic](https://omnisplore.wordpress.com/2019/06/21/manifest-logic/).
+* __[Manifest Logic](https://omnisplore.wordpress.com/2019/06/21/manifest-logic/).__
 Short, free to download.
 Comp-fi hardness score: 5.
 Not my place to rate this. ***?
 
   Thinking myself the first to the magic-as-programming game I put together something that included naming, boundary conditions, recursion, protected memory and object oriented design. Afterwards I found Ra, and was pleasantly surprised to see how much overlap there is between my thinking and Hughes’s… though he wrote a better story than I could ever hope to! Young adult.
 
-* __[Shannon’s Law](https://www.tor.com/2011/05/05/shannons-law/) (Cory Doctorow).
+* __[Shannon’s Law](https://www.tor.com/2011/05/05/shannons-law/) (Cory Doctorow).__
 Short, free to download.
 Comp-fi hardness score: 5.
 Overall rating ****
