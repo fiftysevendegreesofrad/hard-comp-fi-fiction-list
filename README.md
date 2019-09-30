@@ -8,7 +8,7 @@ Some stories can be both, but they don’t have to be. In particular, magic lend
 
 In the hardest comp-fi, programming skills contribute to the reader’s understanding of the plot, or perhaps vice versa: the plot contributes to the reader’s understanding of programming. You could probably class it all as [rational fiction](https://www.reddit.com/r/rational/).
 
-Genres are often defined by what they are NOT, so here are some honourable mentions: 
+Genres are often defined by what they are *not*, so here are some honourable mentions: 
 
 * The Atrocity Archives (Charlie Stross) – is set in a Lovecraftian world where magic is portrayed as very scientific, albeit with expository hand-waving rather than detailed exploration. 
 
