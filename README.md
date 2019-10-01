@@ -122,7 +122,7 @@ Overall rating ***__
   Rainbows End is Vinge's near future prediction book, it predicts a "middle road" of the automation future between dystopia and utopia, feeling more realistic for the trying. At first a wonderous look at what the future might bring us (grounded in reality, focusing on ideas like augmented reality, computational currencies, and influencers; published nearly 15 years ago!) that becomes a terrifying look at what automation will mean for issues like terrorism (including a hard look at what computer privacy focused movements will have to contend with in the future). While the plot leaves somethings to be desired, the book is startingly evocative of a the near computational future.
 
 * __[Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon) (Neal Stephenson).
-Short, free to download.
+Long, free to download.
 Comp-fi hardness score: 5.
 Overall rating *****__
 
