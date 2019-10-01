@@ -80,9 +80,9 @@
 			"title": "A Deepness in the Sky (Vernor Vinge)",
 			"length": "Long",
 			"reviews": [{
-					"reviewer": "",
-					"csprop": 4.5,
-					"cscent": 4.5,
+					"reviewer": "Mason Bially",
+					"csprop": 4,
+					"cscent": 5,
 					"overallscore": 5,
 					"review": "A hard sci-fi novel, in contrast with the soft sci-fi novel of the same series (readable in either order), A Fire Upon the Deep. Contains many computer science and software engineering references as well as some big ideas: from programmer archeologists to open source space traders, from stenography to obscured code. Focuses on an alien race going through their first world war being observed by multiple factions of space faring humans (which don't get along with each other)."
 				}
@@ -135,7 +135,7 @@
 			"title": "Rainbows End (Vernor Vinge)",
 			"length": "Long",
 			"reviews": [{
-					"reviewer": "",
+					"reviewer": "Mason Bially",
 					"csprop": 5,
 					"cscent": 5,
 					"overallscore": 3,
