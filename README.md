@@ -1,5 +1,7 @@
 # hard-comp-fi-fiction-list 
 
+The deployed list lives at https://fiftysevendegreesofrad.github.io/hard-comp-fi-fiction-list/
+
 To update: add new books and/or new reviews of books already listed, to [data.json](data.json), then send a pull request. 
 
 * Fields attached to the book:
