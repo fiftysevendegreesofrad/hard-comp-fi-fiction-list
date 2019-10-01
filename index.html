@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+
+<!--
+
+Original table display mechanism Copyright (c) 2017 Clint McKoy https://codepen.io/clintmckoy/pen/Rpwxzg
+Modifications to this and data Copyright (c) 2019 onwards, Crispin Cooper and other contributors to this repo
+
+Permission is hereby granted, free of charge, to any person 
+obtaining a copy of this software and associated documentation 
+files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell copies of 
+the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall 
+be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+
+-->
+<head>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
+<style>
+.table-row-odd, .table-row-odd:hover {
+  background-color: #e3f4ff !important;
+}
+
+tbody tr {
+  cursor: pointer;
+}
+
+body {
+    margin-top: 20px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 2em;
+    
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+#narrow {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+}
+
+table thead  {
+    background-color: #0f3248;
+    color: #ffffff;
+}
+
+thead:hover { color: #000000;}
+
+</style>
+</head>
+<body>
+<div id="narrow">
+<h1>hard-comp-fi-fiction-list</h1>
+
+<p>This resource lists a bunch of stories which in some way, explore the beautiful ideas behind computer science, software engineering and even plain old programming. 
+
+<p>You can add more books, or more reviews of existing books via a <a href="https://github.com/fiftysevendegreesofrad/hard-comp-fi-fiction-list">pull request</a> (see the project README first). Updates to the display mechanism are also welcome! A lot of the  suggestions came from these HN threads: <a href="https://news.ycombinator.com/item?id=15670507">1</a> <a href="https://news.ycombinator.com/item?id=21115324">2</a>.
+
+
+<h2> Genre definition</h2>
+
+<p>I'm tentatively calling this "hard comp-fi" to echo the well-established genre of hard sci-fi, which is defined by accurate, watertight science taking centre stage in the narrative. In hard comp-fi, by way of contrast, the computer science/software engineering/programming aspects are accurate, watertight and take centre stage in the narrative.
+
+<p>Some stories can be both, but they don’t have to be. In particular, magic lends itself very well as an allegory for computation: unlike its precursor, therefore, hard comp-fi often inhabits a fantasy setting. Hard comp-fi is not necessarily cyberpunk either; the latter can slant away from technical concepts and towards societal implications, usually with a bleak postmodernist aesthetic.
+
+<p>In the hardest comp-fi, programming skills contribute to the reader’s understanding of the plot, or perhaps vice versa: the plot contributes to the reader’s understanding of programming. You could probably class it all as <a href="https://www.reddit.com/r/rational/">rational fiction</a>.
+
+<p>Genres are often defined by what they are *not*, so here are some honourable mentions: 
+<ul>
+<li>The Atrocity Archives (Charlie Stross) – is set in a Lovecraftian world where magic is portrayed as very scientific, albeit with expository hand-waving rather than detailed exploration. 
+<li>Diane Duane's Young Wizards series, likewise (albeit suitable for children). 
+<li>Gibson’s Neuromancer sets the tone for a vast quantity of cyberpunk in its dealings with AI and simulation, though I don’t feel this alone qualifies it. 
+</ul>
+
+
+
+<h2> The List</h2>
+
+<p>Ratings are, of course, subjective and best taken with a pinch of MSG. All ratings are out of 5. <i>CompFi proportion</i> describes what proportion of the text is given over to comp-fi concepts. Higher proportion is not necessarily better or worse - it's a stylistic choice that necessarily trades off against e.g. character development. <i>CompFi centrality</i> describes how central comp-fi is to the narrative - not necessarily the same thing as proportion. <i>CompFi combined</i> takes an average of both and <i>overall rating</i> is a more conventional rating of quality.
+
+<p>Click any row to show <span style="color:red;font-weight:bold">text reviews</span>, click any header to <span style="color:red;font-weight:bold">sort by column</span>. Hyperlinks in titles lead to <span style="color:red;font-weight:bold">legal free downloads</span> only.
+
+</narrow>
+
+	<div class="row" id="fiction-list">
+		<div class="columns small-12">
+			<table role="grid" class="hover" id="mainlist">
+			 	<thead>
+				    <tr>
+                    <th class="sort" data-sort="work">Work</th>					 
+                    <th class="sort" data-sort="length">Length</th>
+				    	<th class="sort" data-sort="csprop">CompSci<br/>proportion</th>	
+							<th class="sort" data-sort="cscent">CompSci<br/>centrality</th>
+                            <th class="sort" data-sort="csoverall">CompSci<br/>combined</th>
+							<th class="sort" data-sort="overallscore">Overall<br/>rating</th>
+							
+				    	
+					</tr>
+				</thead>
+				<tbody class="list">
+				</tbody>
+			</table>
+		</div>
+	</div>
+    
+<narrow>
+<h2>Works recommended but lacking review</h2>
+<ul>
+
+<li>Sherri Tepper’s True Game series 
+
+<li>Daemon by Daniel Suarez. 
+
+<li>The Adolescence of P1 by Thomas Ryan.
+
+<li>Lifecycle of software objects by Ted Chiang
+
+<li>The Digital Fortress, by Dan Brown
+
+<li>Synners (Pat Cadigan). Medium lengths. Comp-fi hardness score: 3. Overall rating 4. "A cyberpunk tale involving virtual reality, a bit of AI, a step towards the singularity, and a young woman named Sam.". VR and AI do not alone qualify as hard comp-fi: I would need a more detailed review to include this.
+
+<li>pulled from the 2nd HN thread: top level comments in upvote order<ul>
+<li>We Are Legion (Dennis E. Taylor)
+<li>David Moles's 'Down And Out In The Magic Kingdom
+<li>Daemon - Daniel Suaraz
+<li>Ted Chiang's The Lifecycle of Software Objects
+<li>Quantum Thief trilogy by Hannu Rajaniemi
+<li>"I Am AWAKE" by Fisher Samuels
+<li>"When Harlie was One" by David Gerrold 
+<li>This Perfect Day, by Ira Levin
+<li>The Moon Is A Harsh Mistress by Robert Heinlein (though probably not comp-fi)
+<li>the Adolescence of P1. And "Gateway" (same author?)
+<li>Ken MacLeod, The Restoration Game
+<li>Accelerando by Charles Stross 
+<li>Fredric Brown, "Answer"
+<li>Stealing the Network series. 
+<li>Metamorphosis of Prime Intellect
+<li>Neal Stephenson REAMDE and Diamond Age
+<li>"Friendship Is Optimal" by Iceman https://www.fimfiction.net/story/62074/friendship-is-optimal
+<li>"The Cookie Monster" by Vernor Vinge
+<li>"Blood Music" by Greg Bear
+<li>Cory Doctorow's short story from 2002, "0wnz0red", about programmers who hack their own bodies don't need exercise and never get sick: https://www.salon.com/2002/08/28/0wnz0red/
+<li>Larry Niven's magic stories.
+<li> Stanislav Lem is missing: the Cyberiad, tales of Pirx the pilot.. 
+<li>WarGames movie
+<li>Otherland series by Tad Williams 
+<li>Ready Player One movie
+<li>Shockwave Rider by John Brunner
+<li>Colossus: The Forbin Project" by DF Jones
+<li>The Two Faces of Tomorrow" by Hogan.
+<li>Peter Watts' Maelstrom, 3.5-4 compfi
+<li>The three-body problem (Cixin Liu). 
+<li>Richard Powers' Galatea 2.2. 
+<li>The Bug” by Ellen Ullman
+<li>Ramez Naam - Nexus
+<li>Rudy Rucker's Ware Tetralogy
+<li>James P. Hogan The Two Faces of Tomorrow: https://www.baen.com/the-two-faces-of-tomorrow.html
+<li>THrice upon a time
+<li>Coding Machines by Lawrence Kesteloot: https://www.teamten.com/lawrence/writings/coding-machines/
+<li>any of William Hertling's series 
+<li>Cory Doctorow's Unauthorized Bread and Walkaway, 
+<li>https://qntm.org/responsibility
+<li>Mr Robot 10 out of 5 (film)
+<li>Berserkers series by Fred Saberhagen 
+<li>CTRL ALT Revolt, Soda Pop Solider, & Pop Kult Warlord, by Nick Cole.
+<li>Serial Experiments Lain (anime)
+
+</ul>
+<li>second level comments:<ul>
+<li>Diaspora is a particularly good fit. (Egan)
+<li>Pohl's Heechee Rendevous 
+<li>Vinge's "True Names"
+<li>Greg Egan Axiomatic short story, and Singleton http://www.gregegan.net/MISC/SINGLETON/Singleton.html
+<li>Ken MacLeod, Fall Revolution series, too: The Star Fraction, The Cassini Division, The Stone Canal, and The Sky Road
+<li>The Art of Deception: Controlling the Human Element of Security"(Kevin Mitnick)
+<li>Rucker's "The Hacker and the Ants"
+</ul>
+</narrow>
+
+<script type="text/javascript">
+function MyHereDoc(){
+/*HERE
+
+HERE*/
+    var here = "HERE";
+    var reobj = new RegExp("/\\*"+here+"\\n[\\s\\S]*?\\n"+here+"\\*/", "m");
+    str = reobj.exec(MyHereDoc).toString();
+    str = str.replace(new RegExp("/\\*"+here+"\\n",'m'),'').toString();
+    return str.replace(new RegExp("\\n"+here+"\\*/",'m'),'').toString();
+}
+
+$(document).ready(function () {  
+  
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", "https://fiftysevendegreesofrad.github.io/hard-comp-fi-fiction-list/data.json", false);
+  xmlhttp.send(null); 
+  p = JSON.parse(xmlhttp.responseText);
+  
+  //for local debug
+  //p = JSON.parse(MyHereDoc());
+  
+  for (var work of p.data)
+  {
+    var csprop = 0;
+    var cscent = 0;
+    var score = 0;
+    var reviews="";
+    for (var review of work.reviews)
+    {
+        var reviewer = "anon";
+        if (review.hasOwnProperty("reviewer")) reviewer=review.reviewer;
+        reviews += "<p>"+review.review+" - "+reviewer+"</p>";
+        if (!review.hasOwnProperty("csprop")) alert("no csprop for "+reviewer+" review of "+work.title);
+        csprop += review.csprop;
+        if (!review.hasOwnProperty("cscent")) alert("no cscent for "+reviewer+" review of "+work.title);
+        cscent += review.cscent;
+        if (!review.hasOwnProperty("overallscore")) alert("no overallscore for "+reviewer+" review of "+work.title);
+        score += review.overallscore;
+    }
+    csprop /= work.reviews.length;
+    cscent /= work.reviews.length;
+    score /= work.reviews.length;
+    var csoverall = Math.pow(csprop*cscent,0.5);
+    csprop = csprop.toFixed(1);
+    cscent = cscent.toFixed(1);
+    score = score.toFixed(1);
+    csoverall = csoverall.toFixed(1);
+    if (reviews=="") reviews="No detailed reviews given - please contribute one!";
+    
+    $(mainlist).find('tbody').append( '<tr><td class="work">'+work.title
+                                        +'</td><td class="length">'+work.length
+                                        +'</td><td class="csprop">'+csprop
+                                        +'</td><td class="cscent">'+cscent
+                                        +'</td><td class="csoverall">'+csoverall
+                                        +'</td><td class="overallscore">'+score+'<div class="hide">'+reviews+'</div></td></tr>' );
+  };
+  
+  // function to remove and add alt row classes
+  var updateAltRowClasses = function updateAltRowClasses() {
+    $('tbody tr').removeClass('table-row-odd'); // remove all alt row classes
+    $('tbody tr:odd').addClass('table-row-odd'); // add class to alt rows
+  }
+  
+  updateAltRowClasses(); // run function to add classes to alternating table rows
+
+  // toggle-able row
+  $('tbody tr').not('.hidden-row').on('click', function(){ // table row is clicked
+    var hiddenRow = $(this).next(".hidden-row"); // variable that finds the hidden content for clicked row
+    var rowExists = $(hiddenRow).length; // variable that figures out if the collapsible row already exists or not
+    if (rowExists) { // if collapsible row exists already
+      $('tbody .hidden-row').not(hiddenRow).hide(); // hide all open toggle-able rows
+      $(hiddenRow).toggle(); // toggle the row on and off
+    } else { // if collapsible row doesn't exist
+      var expRowContent = $(this).find('.hide').html(); // grab this row's hidden content and store in a variable
+      var newExpRow = '<tr class="hidden-row" style="display:none;"><td colspan="6">' + expRowContent + '</td></tr>'; // wrap hidden content in a table row
+      $(newExpRow).insertAfter(this); // insert the collapsible table row after the clicked row
+      $('tbody .hidden-row').not(hiddenRow).hide(); // hide all open toggle-able rows
+      $(this).next('.hidden-row').toggle();  // toggle the row on and off
+    }
+  });
+  
+	// list.js settings
+	var options = {
+	  valueNames: [ 'work','length','csprop','cscent','csoverall','overallscore']
+	};
+	
+	var userList = new List('fiction-list', options); // initiate list.js
+	userList.on('updated', updateAltRowClasses); // update alternate row classes after every new sort
+    userList.sort(csoverall, {  order: 'desc'});
+});
+
+
+</script>
+
+</body>
+</html>

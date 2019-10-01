@@ -1,0 +1,175 @@
+{
+	"data": [{
+			"title": "The Matrix (Wachowskis)",
+			"length": "(film)",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 2,
+					"cscent": 3,
+					"overallscore": 5,
+					"review": "Not a book, but I'm putting it here to note that despite its sci-fi holes (batteries, anyone?) its comp-fi credentials are stronger, covering simulation, antivirus and agents. Also, the famous red pill is a <a href=\"https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values\">magical debug value</a>."
+				}
+			]
+		}, {
+			"title": "<a href=\"http://unsongbook.com/\">Unsong</a> (Scott Alexander)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 1,
+					"cscent": 3,
+					"overallscore": 5,
+					"review": "I loved this, though skipped the Talmud analysis bits. I’m not 100% sure it qualifies as hard comp-fi as the focus is more social and philosophical (what would you expect from the author of <a href=\"https://slatestarcodex.com/\">slatestarcodex</a>?. Still, it’s definitely got a lot of computing in there including automated search for names of God, in a Pratchett-esque world where physics is broken and hell is real."
+				}
+			]
+		}, {
+			"title": "<a href=\"https://qntm.org/ra\">Ra</a> (Sam Hughes)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 2.5,
+					"cscent": 4,
+					"overallscore": 5,
+					"review": "I loved this. Magical realism setting, with better character development than most of the ‘harder’ comp-fi, and a complex narrative. Computing aspects include naming, a fork bomb, and levels of abstraction i.e. the difference between machine code and interpreted language."
+				}
+			]
+		}, {
+			"title": "Snow Crash (Neal Stephenson)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 2,
+					"cscent": 3.5,
+					"overallscore": 5,
+					"review": "Famous cyberpunk which doesn’t take itself or the author’s homeland too seriously, yet also strangely prescient. Credited with coining modern usage of the word ‘avatar’. Computing aspects include comparative programming languages and antivirus."
+				}
+			]
+		}, {
+			"title": "Asimov’s Robot stories (various)",
+			"length": "Short",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 4,
+					"cscent": 4,
+					"overallscore": 3,
+					"review": "At least one of Asimov’s classic robot short stories hinges on odd behaviour caused by oscillating potentials in the ‘positronic brain’ - perhaps rooted more in electronics than computing. Others hang on logical conundra. I forget which. Possibly the origin of all hard comp-fi."
+				}
+			]
+		}, {
+			"title": "Off to be the Wizard (Scott Meyer)",
+			"length": "Medium",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 3,
+					"cscent": 5,
+					"overallscore": 3,
+					"review": "This, and Wizard’s Bane, both handle the parallels between magic and programming by giving us a programmer as a viewpoint character in a magical world. Computing aspects include naming, code reuse, clever hacks, and a fairly deep exploration of what the author calls shell programming, but I would term development toolchains i.e. using a computer to program itself. Other aspects are well handled – how would you use a display of magic with no direct practical application, to gain power in a medieval setting? Also broaches the topic of (spoiler) <span style=\"color:white\">gender bias in tech</span>, though (spoiler++) <span style=\"color:white\">you wouldn’t think it until the end</span>. I would classify as young adult reading (no slur on my part – I like the concise nature of YA)."
+				}
+			]
+		}, {
+			"title": "Wizard’s Bane (Rick Cook)",
+			"length": "Medium",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 3,
+					"cscent": 5,
+					"overallscore": 3,
+					"review": "Has a lot in common with Off to be the Wizard. Perhaps heavier than the others on nerd wish fulfilment and in-group referencing, though <a href=\"https://confusethelucid.blogspot.com/\">Mark</a> who read this before learning to program said it didn’t upset the flow. The plot is worthy of mention as it hinges entirely on commonalities between magic and software engineering. Young adult."
+				}
+			]
+		}, {
+			"title": "A Deepness in the Sky (Vernor Vinge)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "",
+					"csprop": 4.5,
+					"cscent": 4.5,
+					"overallscore": 5,
+					"review": "A hard sci-fi novel, in contrast with the soft sci-fi novel of the same series (readable in either order), A Fire Upon the Deep. Contains many computer science and software engineering references as well as some big ideas: from programmer archeologists to open source space traders, from stenography to obscured code. Focuses on an alien race going through their first world war being observed by multiple factions of space faring humans (which don't get along with each other)."
+				}
+			]
+		}, {
+			"title": "Lauren Ipsum (Carlos Bueno)",
+			"length": "Medium",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 5,
+					"cscent": 5,
+					"overallscore": 3,
+					"review": "Alice-in-wonderland style allegory. I read this a while ago and can’t clearly remember but I think it touches on naming, recursion, turtle graphics, heuristics, branching and possibly P vs NP. Young adult, or even younger."
+				}
+			]
+		}, {
+			"title": "<a href=\"https://omnisplore.wordpress.com/2019/06/21/manifest-logic/\">Manifest Logic</a> (Crispin Cooper)",
+			"length": "Short",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 5,
+					"cscent": 5,
+					"overallscore": 4,
+					"review": "Thinking myself the first to the magic-as-programming game I put together something that included naming, boundary conditions, recursion, protected memory and object oriented design. Afterwards I found Ra, and was pleasantly surprised to see how much overlap there is between my thinking and Hughes’s... though he wrote a better story than I could ever hope to! My scores may be biased. Young adult."
+				}
+			]
+		}, {
+			"title": "<a href=\"https://www.tor.com/2011/05/05/shannons-law/\">Shannon’s Law</a> (Cory Doctorow)",
+			"length": "Short",
+			"reviews": [{
+					"reviewer": "Crispin",
+					"csprop": 3.5,
+					"cscent": 5,
+					"overallscore": 4,
+					"review": "Doctorow is, of course, a well known storytelling pro. This is a story about trying to establish a TCP/IP connection to Elfland. I liked it."
+				}
+			]
+		}, {
+			"title": "A Fire Upon the Deep (Vernor Vinge)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "",
+					"csprop": 4,
+					"cscent": 4,
+					"overallscore": 4,
+					"review": "This story has two main settings. One is a planet where dog-like creatures communicate telepathically. The other is in space where an ancient AI has escaped it's confines. Large in scale, but also very character driven. Computers play a large role throughout the plot. Great world-building."
+				}
+			]
+		}, {
+			"title": "Rainbows End (Vernor Vinge)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "",
+					"csprop": 5,
+					"cscent": 5,
+					"overallscore": 3,
+					"review": "Rainbows End is Vinge's near future prediction book, it predicts a 'middle road' of the automation future between dystopia and utopia, feeling more realistic for the trying. At first a wonderous look at what the future might bring us (grounded in reality, focusing on ideas like augmented reality, computational currencies, and influencers; published nearly 15 years ago!) that becomes a terrifying look at what automation will mean for issues like terrorism (including a hard look at what computer privacy focused movements will have to contend with in the future). While the plot leaves somethings to be desired, the book is startingly evocative of a the near computational future."
+				},{
+                    "reviewer": "Crispin",
+                    "csprop": 0,
+                    "cscent": 0,
+                    "overallscore": 3,
+                    "review": "Not read this but from the other review, sounds more cyberpumk than hard-comp. This is a dummy review with some low hard-comp scores to balance things until I know more."
+                }
+			]
+		}, {
+			"title": "Cryptonomicon (Neal Stephenson)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "",
+					"csprop": 4,
+					"cscent": 5,
+					"overallscore": 5,
+					"review": "Stephenson shows off his habit of cramming as much research as possible into anything he writes. This book deals with a lot of cryptography, gold based digital currencies, data havens, and conception of the first computers around World War 2. The book also includes a novel cipher known as Pontifex with a working (depending on the edition) Perl script for using it. It's very long but justifies it's length by including two parallel stories. "
+				}
+            ]
+		}, {
+			"title": "Permutation City (Greg Egan)",
+			"length": "Long",
+			"reviews": [{
+					"reviewer": "dfockler",
+					"csprop": 3,
+					"cscent": 4,
+					"overallscore": 5,
+					"review": "Written by a software developer, Permutation City leans hard into the philosophy and realities of what artificial life in a computer simulation might be like. A little trippy, sometimes difficult to follow, but extremely thought-provoking nonetheless."
+				}
+			]
+        }
+    ]
+}
