@@ -187,6 +187,32 @@
 					"review": "Hard Science Fiction world building and main plot with a strong Comp Sci sub-plot. Deals with a universe wide internet skipping through wormholes, but with high latency connections to planets further away."
 				}
 			]
-        	}
+					},
+			{
+				"title": "The Digital Fortress (Dan Brown)",
+				"length": "Medium",
+				"reviews": [
+					{
+						"reviewer": "dfockler",
+						"csprop": 2,
+						"cscent": 3,
+						"overallscore": 3,
+						"review": "This is a pretty standard paper-back thriller. Like some of Dan Brown's more popular work, Digital Fortress reads like it was meant to be made into a movie. Involving little hard comp-fi, and a lot of techno-thriller tropes, it's fun breezy read."
+					}
+				]
+			},
+			{
+				"title": "The Three-Body Problem (Cixin Liu)",
+				"length": "Medium",
+				"reviews": [
+					{
+						"reviewer": "dfockler",
+						"csprop": 3,
+						"cscent": 3,
+						"overallscore": 3.5,
+						"review": "A good first book in the popular sci-fi series. Tying together the past and the present through a simulation game, The Three-Body Problem describes how our pasts reverberate into the future, and examines humanity's relationship with the environment."
+					}
+				]
+			}
     ]
 }
